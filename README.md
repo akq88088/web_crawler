@@ -7,9 +7,9 @@
 
 ![html_example](/image/html_example.png "html_example")
 
-可以觀察到飯店名稱美亞商旅，位於擁有屬性data-selenium且其值為"hotel-name"的h3標籤中，
+可以觀察到飯店名稱美亞商旅，位於屬性data-selenium值為"hotel-name"的h3標籤中，
 
-可以透過下列Xpath指令來得到對應的值，該指令會找到所有擁有屬性data-selenium且其值為"hotel-name"的h3標籤的文字內容。
+可以透過下列Xpath指令來得到對應的值，該指令會找到所有屬性data-selenium值為"hotel-name"的h3標籤裡的文字內容。
 
 ```
 //h3[@data-selenium="hotel-name"]//text()
