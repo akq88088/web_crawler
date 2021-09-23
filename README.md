@@ -5,11 +5,11 @@
 
 網站頁面
 
-![ettody新聞雲即時新聞](/image/et_page.png "ettody新聞雲即時新聞")
+![ettoday新聞雲即時新聞](/image/et_page.png "ettoday新聞雲即時新聞")
 
 爬取結果
 
-![ettody新聞雲爬取結果](/image/et_result.png "ettody新聞雲爬取結果")
+![ettoday新聞雲爬取結果](/image/et_result.png "ettoday新聞雲爬取結果")
 ## agoda_crawler
 爬取agoda訂房網站的飯店資訊，儲存飯店名稱、星級、設備、優惠與價格等資訊
 
