@@ -15,8 +15,21 @@
 //h3[@data-selenium="hotel-name"]//text()
 ```
 
+## selenium.webdriver
+
+為了使用selenium套件，模擬瀏覽網頁的各個動作，需下載瀏覽器對應的執行檔並放在程式執行目錄，
+
+下列網址可下載Google Chrome對應的執行檔。
+
+https://chromedriver.chromium.org/downloads
 ## et_crawler
 爬取ettody新聞雲的即時新聞，並儲存新聞報導時間、標題、新聞內容與新聞的超連結。
+
+執行程式
+
+```
+python et_crawler.py
+```
 
 網站頁面
 
@@ -27,6 +40,12 @@
 ![ettoday新聞雲爬取結果](/image/et_result.png "ettoday新聞雲爬取結果")
 ## agoda_crawler
 爬取agoda訂房網站的飯店資訊，儲存飯店名稱、星級、設備、優惠與價格等資訊。
+
+執行程式
+
+```
+python agoda_crawler.py
+```
 
 網站頁面
 
